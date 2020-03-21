@@ -18,3 +18,4 @@ If not cloned recursively:
 ```bash
 $ cd kovri-site/ && git submodule init && git submodule update
 ```
+s
